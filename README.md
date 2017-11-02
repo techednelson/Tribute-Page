@@ -14,7 +14,7 @@ Final Project URL: https://codepen.io/techednelson/full/jBYYRg/
 
 # Contribution
 
-Pull Requests & Issues to report, fix  or enhance this project are welcome. Please follow [these steps](README.md.md) to contribute.
+Pull Requests & Issues to report, fix  or enhance this project are welcome. Please follow [these steps](CONTRIBUTING.md) to contribute.
 
 # License
 
